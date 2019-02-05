@@ -18,3 +18,5 @@ defaults:
       path: "principles"
     values:
       principle: true
+
+theme: jekyll-theme-slate
