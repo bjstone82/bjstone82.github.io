@@ -1,6 +1,6 @@
-# DfE Digital technical guidance
+# Apprentice Service Technical and Security Principles
 This site documents the technical standards and guidance that we expect teams working
-within the [Department for Education](https://www.gov.uk/government/organisations/department-for-education)
+within the [ESFA Apprenticeships Service](https://www.gov.uk/topic/further-education-skills/apprenticeships)
 to follow when building digital services.
 
 It complements the [Service Manual](https://www.gov.uk/service-manual),
@@ -8,6 +8,8 @@ which covers service design more broadly.
 
 It is inspired by the [GDS Way](https://gds-way.cloudapps.digital) and the
 [Ministry of Justice Technical Guidance](https://ministryofjustice.github.io/technical-guidance/#moj-technical-guidance)
+
+The initial draft was lifted from the [Department for Education Technical Guidance](https://dfe-digital.github.io/technology-guidance/#dfe-digital-technical-guidance)
 
 ## Principles
 
